@@ -1,0 +1,15 @@
+.header {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.container {
+    background-color: #4196a4;
+    color: white;
+    margin: 0 0 2px;
+    padding: 12px 16px;
+
+    width: 940px;
+    margin-left: 230px;
+    margin-right: auto;
+}

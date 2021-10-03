@@ -1,0 +1,20 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+body {
+    font-size: 1.3rem;
+    font-family: Helvetica;
+}
+
+.productBox {
+    width: 33.33%;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.manufacturer {
+    font-weight: 700;
+}
+

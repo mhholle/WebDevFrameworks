@@ -1,0 +1,40 @@
+.container {
+    box-sizing: border-box;
+    display: block;
+    /*max-*/width: 640px;
+    /*max-*/height: 496px;
+    background-color: #fff;
+    margin-left: 230px;
+    margin-bottom: 20px;
+}
+
+.image {
+    padding: 15px 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bodyText {
+    font-size: 26px;
+    color: #191919;
+    font-weight: 700;
+    font-family: sans-serif;
+    display: block;
+    margin-left: 20px;
+    margin-right: 14px;
+    text-align: left;
+    line-height: 1.26;
+    margin-bottom: 20px;
+}
+
+.header {
+    color: #00518d;
+}
+
+.tagText {
+    color: #484848;
+    font-size: 15px;
+    margin: 0px 8px 0px 20px;
+    font-weight: 400;
+}

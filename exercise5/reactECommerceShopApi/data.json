@@ -1,0 +1,86 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "manufacturer": "Sennheiser",
+            "model": "HD 820",
+            "price": 1799.99,
+            "rating": 4,
+            "image": "HD820.png",
+            "type": "Over-Ear"
+        },
+        {
+            "id": 2,
+            "manufacturer": "Hifiman",
+            "model": "Sundara",
+            "price": 349.99,
+            "rating": 4.5,
+            "image": "sundara.png",
+            "type": "Over-Ear"
+        },
+        {
+            "id": 3,
+            "manufacturer": "Beyerdynamic",
+            "model": "DT 990 Pro",
+            "price": 249.99,
+            "rating": 4.5,
+            "image": "dt990pro.png",
+            "type": "Over-Ear"
+        },
+        {
+            "id": 4,
+            "manufacturer": "Sennheiser",
+            "model": "HD 600",
+            "price": 278.99,
+            "rating": 4.5,
+            "image": "hd600.png",
+            "type": "Over-Ear"
+        },
+        {
+            "id": 5,
+            "manufacturer": "Audeze",
+            "model": "LCD-X",
+            "price": 1199.99,
+            "rating": 4.5,
+            "image": "lcdx.png",
+            "type": "Over-Ear"
+        },
+        {
+            "id": 6,
+            "manufacturer": "Hifiman",
+            "model": "HE400se",
+            "price": 149.95,
+            "rating": 3,
+            "image": "he400s.png",
+            "type": "Over-Ear"
+        },
+        {
+            "id": 7,
+            "manufacturer": "Apple",
+            "model": "AirPods Pro",
+            "price": 299.99,
+            "rating": 5,
+            "image": "airPodsPro.png",
+            "type": "In-Ear"
+        },
+        {
+            "id": 8,
+            "manufacturer": "Sennheiser",
+            "model": "CX 400BT",
+            "price": 89.95,
+            "rating": 3,
+            "image": "cx400bt.png",
+            "type": "In-Ear"
+        },
+        {
+            "id": 9,
+            "manufacturer": "Beats",
+            "model": "Solo3",
+            "price": 149.99,
+            "rating": 2,
+            "image": "solo3.png",
+            "type": "On-Ear"
+        }
+
+    ]
+}

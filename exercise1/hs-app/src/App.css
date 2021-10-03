@@ -1,0 +1,30 @@
+.backgroundColor {
+    background-color: #e9eaed;
+}
+
+.main{
+    grid-area: main;
+}
+
+.side{
+    grid-area: sidebar;
+}
+
+.newsBox {
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "main main . sidebar";
+    
+}
+
+.bigHeader {
+    font-size: 22px;
+    font-weight: 900;
+    font-style: sans-serif;
+    color: #191919;
+    background-color: #fff;
+    padding-right: 149px;
+    padding-left: 20px;
+}
